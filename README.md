@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enginpaksoy
-- 👀 I’m interested in golang and c++
-- 🌱 I’m currently learning golang
+- 👀 I’m interested in C / C++, Python, Go
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
